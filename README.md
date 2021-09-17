@@ -1,7 +1,7 @@
 # Grainer
 <h2> What is Grainer? <h2>
 
-<h4> Grainer is a private software developing company. Which's headquaters located on Sri-Lanka.
+<h4> Grainer is a private software developing company. 
 Grainer currently Highly publish Apps and WebSites. We are alwys trying to give you safe products with high quality.<h4>
 
 
